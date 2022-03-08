@@ -10,13 +10,23 @@
 
 <body>
     <div id="title">
-        <h1>Flag Maker</h1>
+        <h1>Flag Maker</h1><br>
     </div>
 
     <div id="flag-output">
         <svg width="900" height="600">
-            <rect width="900" height="600" style="fill: none;" id="field"></rect>
+            <rect width="900" height="600" style="fill: white;" id="field"></rect>
         </svg>
+    </div>
+
+    <div id="field">
+        <h3>Field</h3>
+        <button id="field-red" onclick="field.style.fill = 'red';">Red</button>
+        <button id="field-blue" onclick="field.style.fill = 'blue';">Blue</button>
+        <button id="field-green" onclick="field.style.fill = 'green';">Green</button>
+        <button id="field-black" onclick="field.style.fill = 'black';">Black</button>
+        <button id="field-yellow" onclick="field.style.fill = 'yellow';">Yellow</button>
+        <button id="field-white" onclick="field.style.fill = 'white';">White</button>
     </div>
 </body>
 <script src="main.js"></script>
