@@ -4,13 +4,20 @@
 }
 
 body {
+    color: #444;
+    font-family: Arial, Helvetica, sans-serif;
     margin: 10px;
+}
+
+#title {
+    margin-bottom: 10px;
+    text-align: center;
 }
 
 #flag-output {
     width: 900px;
     height: 600px;
-    outline: #333 solid 5px;
+    outline: #444 solid 5px;
     position: absolute;
     right: 10px;
 }
