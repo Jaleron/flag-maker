@@ -9,8 +9,8 @@ body {
     margin: 10px;
 }
 
-#title {
-    text-align: center;
+button {
+    cursor: pointer;
 }
 
 #flag-output {
