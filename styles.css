@@ -8,6 +8,9 @@ body {
 }
 
 #flag-output {
+    width: 900px;
+    height: 600px;
+    outline: #333 solid 5px;
     position: absolute;
     right: 10px;
 }
