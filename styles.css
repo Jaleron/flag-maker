@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 10px;
+}
+
+#flag-output {
+    position: absolute;
+    right: 10px;
+}
