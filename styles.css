@@ -9,7 +9,7 @@ body {
     margin: 10px;
 }
 
-button {
+button, input, label {
     cursor: pointer;
 }
 
