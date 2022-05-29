@@ -13,10 +13,8 @@ button, input, label {
     cursor: pointer;
 }
 
-#flag-output {
-    width: 900px;
-    height: 600px;
+#flag {
+    width: 360px;
+    height: 240px;
     border: #444 solid 5px;
-    position: absolute;
-    right: 10px;
 }
