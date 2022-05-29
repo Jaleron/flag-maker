@@ -16,7 +16,7 @@ button, input, label {
 #flag-output {
     width: 900px;
     height: 600px;
-    outline: #444 solid 5px;
+    border: #444 solid 5px;
     position: absolute;
     right: 10px;
 }
