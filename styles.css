@@ -14,7 +14,7 @@ button, input, label {
 }
 
 #flag {
+    border: 4px solid #444;
     width: 360px;
     height: 240px;
-    border: #444 solid 5px;
 }
